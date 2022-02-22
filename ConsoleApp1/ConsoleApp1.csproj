@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{219AD123-5232-4B02-9F2C-1763019EA89C}</ProjectGuid>
+    <ProjectGuid>{A0B229D9-6771-4C84-8F08-3FFA7A54E3F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>szigetek</RootNamespace>
-    <AssemblyName>szigetek</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

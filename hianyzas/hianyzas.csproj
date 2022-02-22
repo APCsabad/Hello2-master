@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{219AD123-5232-4B02-9F2C-1763019EA89C}</ProjectGuid>
+    <ProjectGuid>{268535DC-F6B6-490A-9CF9-4FAB97410458}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>szigetek</RootNamespace>
-    <AssemblyName>szigetek</AssemblyName>
+    <RootNamespace>hianyzas</RootNamespace>
+    <AssemblyName>hianyzas</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -1,0 +1,7 @@
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\hianyzas\bin\Debug\hianyzas.exe.config
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\hianyzas\bin\Debug\hianyzas.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\hianyzas\bin\Debug\hianyzas.pdb
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\hianyzas\obj\Debug\hianyzas.csproj.AssemblyReference.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\hianyzas\obj\Debug\hianyzas.csproj.CoreCompileInputs.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\hianyzas\obj\Debug\hianyzas.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\hianyzas\obj\Debug\hianyzas.pdb
