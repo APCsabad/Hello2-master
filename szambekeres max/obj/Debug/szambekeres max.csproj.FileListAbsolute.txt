@@ -1,0 +1,7 @@
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\szambekeres max\bin\Debug\szambekeres max.exe.config
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\szambekeres max\bin\Debug\szambekeres max.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\szambekeres max\bin\Debug\szambekeres max.pdb
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\szambekeres max\obj\Debug\szambekeres max.csproj.AssemblyReference.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\szambekeres max\obj\Debug\szambekeres max.csproj.CoreCompileInputs.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\szambekeres max\obj\Debug\szambekeres max.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\szambekeres max\obj\Debug\szambekeres max.pdb

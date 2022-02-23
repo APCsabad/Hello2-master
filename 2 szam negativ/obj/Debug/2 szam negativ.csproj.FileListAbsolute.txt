@@ -1,0 +1,7 @@
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\2 szam negativ\bin\Debug\2 szam negativ.exe.config
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\2 szam negativ\bin\Debug\2 szam negativ.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\2 szam negativ\bin\Debug\2 szam negativ.pdb
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\2 szam negativ\obj\Debug\2 szam negativ.csproj.AssemblyReference.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\2 szam negativ\obj\Debug\2 szam negativ.csproj.CoreCompileInputs.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\2 szam negativ\obj\Debug\2 szam negativ.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\2 szam negativ\obj\Debug\2 szam negativ.pdb

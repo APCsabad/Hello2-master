@@ -1,0 +1,7 @@
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\Nszam\bin\Debug\Nszam.exe.config
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\Nszam\bin\Debug\Nszam.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\Nszam\bin\Debug\Nszam.pdb
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\Nszam\obj\Debug\Nszam.csproj.AssemblyReference.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\Nszam\obj\Debug\Nszam.csproj.CoreCompileInputs.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\Nszam\obj\Debug\Nszam.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\Nszam\obj\Debug\Nszam.pdb
