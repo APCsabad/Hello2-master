@@ -1,0 +1,7 @@
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\konyv\bin\Debug\konyv.exe.config
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\konyv\bin\Debug\konyv.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\konyv\bin\Debug\konyv.pdb
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\konyv\obj\Debug\konyv.csproj.AssemblyReference.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\konyv\obj\Debug\konyv.csproj.CoreCompileInputs.cache
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\konyv\obj\Debug\konyv.exe
+C:\Users\2021303\source\repos\APCsabad\Hello2-master\konyv\obj\Debug\konyv.pdb
