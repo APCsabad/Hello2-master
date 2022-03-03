@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -35,7 +36,7 @@ namespace Class
         public int getkor()
         {
             return this.kor;
-        }
+,        }
         public string getfajta()
         {
             return this.fajta;
@@ -51,6 +52,15 @@ namespace Class
             
         }
      }
+    class home {
+        List<Állat> szobák = new List<Állat>;   
+        public home() { 
+        }
+        public void allatadd(allat p) {
+            public szobak add(p);
+
+        }
+    }
 
     class Program
     {
