@@ -56,7 +56,7 @@ namespace Class
         List<Állat> szobák = new List<Állat>;   
         public home() { 
         }
-        public void allatadd(allat p) {
+        public void allatadd(allat p) {C
             public szobak add(p);
 
         }
