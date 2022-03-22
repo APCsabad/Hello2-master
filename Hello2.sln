@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "körclass", "körclass\kör
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programozási tételek", "Programozási tételek\Programozási tételek.csproj", "{8B161EBB-6516-4C0A-AEC0-E2960E157598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programozási tételek2", "Programozási tételek2\Programozási tételek2.csproj", "{4FF3D6A9-51E2-4405-B385-01DD575AF27C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8B161EBB-6516-4C0A-AEC0-E2960E157598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B161EBB-6516-4C0A-AEC0-E2960E157598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B161EBB-6516-4C0A-AEC0-E2960E157598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF3D6A9-51E2-4405-B385-01DD575AF27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF3D6A9-51E2-4405-B385-01DD575AF27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF3D6A9-51E2-4405-B385-01DD575AF27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF3D6A9-51E2-4405-B385-01DD575AF27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
