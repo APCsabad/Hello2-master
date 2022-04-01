@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Binaris
+namespace Menuű
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Binaris binaris = new Binaris();
-            binaris.binariis();
+            Menu menu = new Menu();
+            menu.menupont();
             Console.ReadKey();
         }
     }

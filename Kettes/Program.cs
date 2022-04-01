@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Binaris
+namespace Kettes
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Binaris binaris = new Binaris();
-            binaris.binariis();
-            Console.ReadKey();
         }
     }
 }

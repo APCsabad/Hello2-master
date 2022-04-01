@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Binaris
+namespace Lotto
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Binaris binaris = new Binaris();
-            binaris.binariis();
+            Szamok szamok = new Szamok();
+            szamok.nyeroszamok();
             Console.ReadKey();
         }
     }
