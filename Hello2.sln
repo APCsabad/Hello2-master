@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menuű\Menu.csproj"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kettes", "Kettes\Kettes.csproj", "{5D1F5E81-E080-4A2A-A235-F2136651DFF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szamrendszer", "Szamrendszer\Szamrendszer.csproj", "{3116F2DA-02D2-4768-82F6-8935D8ED26C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorozat", "Sorozat\Sorozat.csproj", "{C86062A4-B011-42D7-A367-6BB3959DACA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{5D1F5E81-E080-4A2A-A235-F2136651DFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D1F5E81-E080-4A2A-A235-F2136651DFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D1F5E81-E080-4A2A-A235-F2136651DFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3116F2DA-02D2-4768-82F6-8935D8ED26C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3116F2DA-02D2-4768-82F6-8935D8ED26C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3116F2DA-02D2-4768-82F6-8935D8ED26C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3116F2DA-02D2-4768-82F6-8935D8ED26C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86062A4-B011-42D7-A367-6BB3959DACA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86062A4-B011-42D7-A367-6BB3959DACA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86062A4-B011-42D7-A367-6BB3959DACA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86062A4-B011-42D7-A367-6BB3959DACA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

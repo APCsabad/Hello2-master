@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kettes
+namespace Sorozat
 {
     class Program
     {
         static void Main(string[] args)
-        {
-            Kettes kettes = new Kettes();
-            kettes.kettess();
+        { Sorozat sorozat = new Sorozat();
+
+            sorozat.szamolas();
             Console.ReadKey();
         }
     }
