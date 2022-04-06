@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elagazas", "Elagazas\Elagaz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forandforeach", "Forandforeach\Forandforeach.csproj", "{F189D3E9-5572-4089-84F9-49E66111287F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listameddigbirja", "Listameddigbirja\Listameddigbirja.csproj", "{DA0E6FA9-4305-4401-9C43-C8F2FAA0C75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{7B6CE095-6A9C-4DA9-8D2C-E925A2B825ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{F189D3E9-5572-4089-84F9-49E66111287F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F189D3E9-5572-4089-84F9-49E66111287F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F189D3E9-5572-4089-84F9-49E66111287F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0E6FA9-4305-4401-9C43-C8F2FAA0C75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0E6FA9-4305-4401-9C43-C8F2FAA0C75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0E6FA9-4305-4401-9C43-C8F2FAA0C75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0E6FA9-4305-4401-9C43-C8F2FAA0C75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6CE095-6A9C-4DA9-8D2C-E925A2B825ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6CE095-6A9C-4DA9-8D2C-E925A2B825ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6CE095-6A9C-4DA9-8D2C-E925A2B825ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6CE095-6A9C-4DA9-8D2C-E925A2B825ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
