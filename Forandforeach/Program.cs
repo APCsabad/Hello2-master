@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lista
+namespace Forandforeach
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Lista lista = new Lista();
-            lista.listaa();
+            Foreach foreacch = new Foreach();
+            foreacch.lista();
             Console.ReadKey();
         }
     }

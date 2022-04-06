@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1DF697D8-FB5B-455B-9930-293EAE221916}</ProjectGuid>
+    <ProjectGuid>{F189D3E9-5572-4089-84F9-49E66111287F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lista</RootNamespace>
-    <AssemblyName>Lista</AssemblyName>
+    <RootNamespace>Forandforeach</RootNamespace>
+    <AssemblyName>Forandforeach</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lista.cs" />
+    <Compile Include="Foreach.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

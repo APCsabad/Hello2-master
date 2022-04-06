@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lista
+namespace Elagazas
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Lista lista = new Lista();
-            lista.listaa();
+            Elagazas elagazas = new Elagazas();
+            elagazas.lista();
             Console.ReadKey();
         }
     }
