@@ -17,7 +17,7 @@ namespace MatrixBill4
             sor = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Adja meg hány oszlopos legyen a mátrixa");
             oszlop = Convert.ToInt32(Console.ReadLine());
-
+             
             int[,] mátrix = new int[sor, oszlop];
             Console.WriteLine("Írja be vesszővel elválasztva, hogy a maga által megadott sor, oszlop, milyen értéket adjon. Formátum: sorszám,oszlopszám,érték");
             string bekeres = Console.ReadLine();
