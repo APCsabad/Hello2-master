@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixBill", "MatrixBill\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixBill4", "MatrixBill4\MatrixBill4.csproj", "{0BC92512-D352-4534-A758-8480D448864F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix5", "Matrix5\Matrix5.csproj", "{BB9406C2-AF6F-4DF6-956D-BE178D9E59A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix6", "Matrix6\Matrix6.csproj", "{ECC7E26D-ECF3-4AB2-A125-E2F383D6BB38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{0BC92512-D352-4534-A758-8480D448864F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BC92512-D352-4534-A758-8480D448864F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BC92512-D352-4534-A758-8480D448864F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9406C2-AF6F-4DF6-956D-BE178D9E59A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9406C2-AF6F-4DF6-956D-BE178D9E59A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9406C2-AF6F-4DF6-956D-BE178D9E59A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9406C2-AF6F-4DF6-956D-BE178D9E59A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC7E26D-ECF3-4AB2-A125-E2F383D6BB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC7E26D-ECF3-4AB2-A125-E2F383D6BB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC7E26D-ECF3-4AB2-A125-E2F383D6BB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC7E26D-ECF3-4AB2-A125-E2F383D6BB38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
