@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Listameddigbirja
 {
@@ -14,7 +15,10 @@ namespace Listameddigbirja
                 List<int> szamok = new List<int>();
                 Console.WriteLine("Milyen hosszú legyen a lista?");
                 Random random = new Random();
+            Stopwatch timer = new Stopwatch();
                 int a = Convert.ToInt32(Console.ReadLine());
+
+            timer.Start();
                 for (int i = 0; i < a; i++)
                 {
                     szamok.Add(random.Next(1, 99));
@@ -27,6 +31,8 @@ namespace Listameddigbirja
                 
 
                 }
+            timer.Stop();
+            Console.WriteLine("Eltelt: "+timer.Elapsed);
             Console.ReadKey();
         }
     }

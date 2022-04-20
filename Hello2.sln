@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixBill", "MatrixBill\MatrixBill.csproj", "{515BFEEA-F298-4C32-AC73-FCB809E98F34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixBill4", "MatrixBill4\MatrixBill4.csproj", "{0BC92512-D352-4534-A758-8480D448864F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{515BFEEA-F298-4C32-AC73-FCB809E98F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{515BFEEA-F298-4C32-AC73-FCB809E98F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{515BFEEA-F298-4C32-AC73-FCB809E98F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC92512-D352-4534-A758-8480D448864F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC92512-D352-4534-A758-8480D448864F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC92512-D352-4534-A758-8480D448864F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC92512-D352-4534-A758-8480D448864F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

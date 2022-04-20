@@ -35,7 +35,7 @@ namespace MatrixBill
             {
                 for (int j = 0; j < t.GetLength(1); j++)
                 {
-                    Console.WriteLine("Adja meg a kovetkezo elemet ({0})",index++);
+                    Console.WriteLine("Adja meg a kovetkezo elemet ({0})", index++);
                     bekeres = Convert.ToDouble(Console.ReadLine());
                     t[i, j] = Convert.ToInt32(Math.Round(bekeres));
                 }
@@ -53,5 +53,5 @@ namespace MatrixBill
 
             Console.ReadKey();
         }
-    }
+    } 
 }
