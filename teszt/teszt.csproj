@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ECC7E26D-ECF3-4AB2-A125-E2F383D6BB38}</ProjectGuid>
+    <ProjectGuid>{B63868D0-143C-4960-A876-C0E847969455}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Matrix6</RootNamespace>
-    <AssemblyName>Matrix6</AssemblyName>
+    <RootNamespace>teszt</RootNamespace>
+    <AssemblyName>teszt</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
