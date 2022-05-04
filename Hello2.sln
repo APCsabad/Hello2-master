@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negyszog", "negyszog\negysz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesztttt", "tesztttt\tesztttt.csproj", "{77E9AD15-C17D-4902-A6C5-E5E1208BAE72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oszthat", "osthat\oszthat.csproj", "{31741FFD-6277-4428-BF72-574441748CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -371,6 +373,14 @@ Global
 		{77E9AD15-C17D-4902-A6C5-E5E1208BAE72}.Release|Any CPU.Build.0 = Release|Any CPU
 		{77E9AD15-C17D-4902-A6C5-E5E1208BAE72}.Release|x64.ActiveCfg = Release|Any CPU
 		{77E9AD15-C17D-4902-A6C5-E5E1208BAE72}.Release|x64.Build.0 = Release|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Debug|x64.Build.0 = Debug|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Release|x64.ActiveCfg = Release|Any CPU
+		{31741FFD-6277-4428-BF72-574441748CBD}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
