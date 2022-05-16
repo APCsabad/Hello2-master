@@ -80,7 +80,7 @@ namespace Listakezeles
         
         }
         public void delLast() {
-  
+   
             varos.RemoveAt(varos.Count - 1);
         }
     }
