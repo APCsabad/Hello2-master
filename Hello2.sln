@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tesztttt", "tesztttt\tesztt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oszthat", "osthat\oszthat.csproj", "{31741FFD-6277-4428-BF72-574441748CBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listakezeles", "Listakezeles\Listakezeles.csproj", "{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,14 @@ Global
 		{31741FFD-6277-4428-BF72-574441748CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{31741FFD-6277-4428-BF72-574441748CBD}.Release|x64.ActiveCfg = Release|Any CPU
 		{31741FFD-6277-4428-BF72-574441748CBD}.Release|x64.Build.0 = Release|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Debug|x64.Build.0 = Debug|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Release|x64.ActiveCfg = Release|Any CPU
+		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
