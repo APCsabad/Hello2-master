@@ -79,6 +79,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oszthat", "osthat\oszthat.c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listakezeles", "Listakezeles\Listakezeles.csproj", "{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barat", "barat\barat.csproj", "{09710772-6CDC-42DD-BA45-42AF74B34F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autolist", "Autolist\Autolist.csproj", "{F785FDED-A955-4138-9EB6-77F3F91AB681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -391,6 +395,22 @@ Global
 		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Release|x64.ActiveCfg = Release|Any CPU
 		{E63554FE-65CD-42D8-9E9F-5ECFC418AAAB}.Release|x64.Build.0 = Release|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Debug|x64.Build.0 = Debug|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Release|x64.ActiveCfg = Release|Any CPU
+		{09710772-6CDC-42DD-BA45-42AF74B34F05}.Release|x64.Build.0 = Release|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Debug|x64.Build.0 = Debug|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Release|x64.ActiveCfg = Release|Any CPU
+		{F785FDED-A955-4138-9EB6-77F3F91AB681}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
