@@ -14,6 +14,7 @@ namespace barat
             private DateTime szuletett;
             private char nem;
             private int bulis;
+            
 
             public Barat() { }
             public Barat(String nev, DateTime szuletett, char nem, int bulis)
@@ -31,6 +32,7 @@ namespace barat
         }
         private List<Barat> baratLista;
         private string fajlNev;
+        private int index=0;
         public BaratLista() {
             baratLista = new List<Barat>();
         }
@@ -54,10 +56,28 @@ namespace barat
         }
         public void kiir() {
 
-            foreach (Barat p in baratLista) {
-                p.printBarat();
+        
+        }
+        public void keys() {
+
+            ConsoleKeyInfo keys = Console.ReadKey();
+            if (keys.Key == ConsoleKey.PageUp)
+            {
+                index ++;
             }
-            Console.ReadKey();
+            if (keys.Key == ConsoleKey.PageDown)
+            {
+                index--;
+            }
+            if (keys.Key == ConsoleKey.Home)
+            {
+                index = 0;
+            }
+            if (keys.Key == ConsoleKey.End)
+            {
+                index = baratLista.Count - 20;
+            }
+
         }
 
 
