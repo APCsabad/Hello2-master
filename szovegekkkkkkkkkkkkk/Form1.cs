@@ -32,6 +32,21 @@ namespace szovegekkkkkkkkkkkkk
             int a = (int)e.X / (label1.Width / 3);
             int b = (int)e.Y / (label1.Height / 3);
 
+
+            switch (b*3 + a){
+                case 0: label1.TextAlign = ContentAlignment.TopLeft; break;
+                case 1: label1.TextAlign = ContentAlignment.TopCenter; break;
+                case 2: label1.TextAlign = ContentAlignment.TopRight; break;
+                case 3: label1.TextAlign = ContentAlignment.MiddleLeft; break;
+                case 4: label1.TextAlign = ContentAlignment.MiddleCenter; break;
+                case 5: label1.TextAlign = ContentAlignment.MiddleRight; break;
+                case 6: label1.TextAlign = ContentAlignment.BottomLeft; break;
+                case 7: label1.TextAlign = ContentAlignment.BottomCenter; break;
+                case 8: label1.TextAlign = ContentAlignment.BottomRight; break;
+
+
+            }
+
         }
 
 
