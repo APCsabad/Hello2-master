@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szovegekkkkkkkkkkkkk", "szo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{E3E35C73-AD8C-417E-9627-3F1A7F51A63A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxClass", "MinMaxClass\MinMaxClass.csproj", "{67C4DC75-B27B-4423-9142-ABCF665ABB37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,14 @@ Global
 		{E3E35C73-AD8C-417E-9627-3F1A7F51A63A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E3E35C73-AD8C-417E-9627-3F1A7F51A63A}.Release|x64.ActiveCfg = Release|Any CPU
 		{E3E35C73-AD8C-417E-9627-3F1A7F51A63A}.Release|x64.Build.0 = Release|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Debug|x64.Build.0 = Debug|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Release|x64.ActiveCfg = Release|Any CPU
+		{67C4DC75-B27B-4423-9142-ABCF665ABB37}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
