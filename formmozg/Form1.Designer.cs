@@ -57,8 +57,9 @@ namespace formmozg
             this.kozep.Size = new System.Drawing.Size(87, 37);
             this.kozep.TabIndex = 0;
             this.kozep.Tag = "Kozep";
-            this.kozep.Text = "Kozep\r\n\r\n\r\n";
+            this.kozep.Text = "Kozep";
             this.kozep.UseVisualStyleBackColor = true;
+            this.kozep.Click += new System.EventHandler(this.kozep_Click);
             // 
             // button2
             // 
@@ -87,6 +88,7 @@ namespace formmozg
             this.button4.TabIndex = 3;
             this.button4.Text = "Kozep";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click_1);
             // 
             // button5
             // 
@@ -96,6 +98,7 @@ namespace formmozg
             this.button5.TabIndex = 4;
             this.button5.Text = "button5";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click_1);
             // 
             // button6
             // 
@@ -232,7 +235,7 @@ namespace formmozg
             this.Controls.Add(this.button2);
             this.Controls.Add(this.kozep);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = " ";
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);
