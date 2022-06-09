@@ -17,7 +17,7 @@ namespace TeglaTDTest
         }
 
         [TestMethod]
-        public void felszinTestRossz()
+        public void felszinTestRossz() 
         {
             Tegla tegla = new Tegla(1, 2, 3);
             int vart = 6;
