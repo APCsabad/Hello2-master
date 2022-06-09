@@ -93,6 +93,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxClass", "MinMaxClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formmozg", "formmozg\formmozg.csproj", "{F0F9EBCB-A6D6-42E3-8A12-D7A21E60CA17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TéglaTD", "TéglaTD\TéglaTD.csproj", "{8EA9553B-F4FC-4862-91AE-CA4A2F644368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeglaTDTest", "TeglaTDTest\TeglaTDTest.csproj", "{4C8E6393-AB9A-4396-BBD9-28193A165A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -461,6 +465,22 @@ Global
 		{F0F9EBCB-A6D6-42E3-8A12-D7A21E60CA17}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F0F9EBCB-A6D6-42E3-8A12-D7A21E60CA17}.Release|x64.ActiveCfg = Release|Any CPU
 		{F0F9EBCB-A6D6-42E3-8A12-D7A21E60CA17}.Release|x64.Build.0 = Release|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Debug|x64.Build.0 = Debug|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Release|x64.ActiveCfg = Release|Any CPU
+		{8EA9553B-F4FC-4862-91AE-CA4A2F644368}.Release|x64.Build.0 = Release|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Debug|x64.Build.0 = Debug|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Release|x64.ActiveCfg = Release|Any CPU
+		{4C8E6393-AB9A-4396-BBD9-28193A165A60}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
