@@ -6,7 +6,7 @@ namespace Szigettest
     [TestClass]
     public class UnitTest1
     {
-        SzigetekUT.Sziget sziget = new SzigetekUT.Sziget();
+        SzigetekUT.Sziget sziget = new SzigetekUT.Sziget(); 
             [TestMethod]
             public void Testszigetszam()
             {
